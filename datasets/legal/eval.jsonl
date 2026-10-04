@@ -1,0 +1,24 @@
+{"text":"Quero revisar um contrato antes de assinar.","label":"CONTRATO","domain":"legal"}
+{"text":"Quero analisar um contrato de prestação de serviços.","label":"CONTRATO","domain":"legal"}
+{"text":"Quero saber como está meu processo.","label":"PROCESSO","domain":"legal"}
+{"text":"Quero verificar se houve uma decisão recente.","label":"PROCESSO","domain":"legal"}
+{"text":"Quero preparar uma petição para meu processo.","label":"PETICAO","domain":"legal"}
+{"text":"Quero preparar uma petição de juntada.","label":"PETICAO","domain":"legal"}
+{"text":"Quero saber qual é o prazo para recorrer.","label":"PRAZO","domain":"legal"}
+{"text":"Quero verificar se o prazo já venceu.","label":"PRAZO","domain":"legal"}
+{"text":"Quero entender o que fazer antes de uma audiência.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber se posso participar por videoconferência.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber quais são meus direitos neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero obter uma análise jurídica da minha situação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero saber se tenho direito às férias não pagas.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero cobrar adicional noturno.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero saber como funciona um divórcio.","label":"FAMILIA","domain":"legal"}
+{"text":"Quero fazer um acordo de divórcio.","label":"FAMILIA","domain":"legal"}
+{"text":"Quero resolver um produto que veio com defeito.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero cancelar uma compra pela internet.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero abrir uma empresa com segurança jurídica.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero entender a dissolução de uma empresa.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero saber se tenho direito à aposentadoria.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero entender por que meu benefício foi suspenso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero defender-me de uma acusação criminal.","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero entender uma investigação criminal.","label":"CRIMINAL","domain":"legal"}
