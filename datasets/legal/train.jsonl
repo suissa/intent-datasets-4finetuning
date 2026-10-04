@@ -94,3 +94,111 @@
 {"text":"Gostaria de receber orientação porque estou sendo investigado.","label":"CRIMINAL","domain":"legal"}
 {"text":"Quero ajuda para saber se posso responder em liberdade.","label":"CRIMINAL","domain":"legal"}
 {"text":"Preciso de orientação para acompanhar uma investigação criminal.","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero entender as obrigações previstas no contrato.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida sobre uma cláusula de multa contratual.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso verificar se uma cláusula permite cancelamento antecipado.","label":"CONTRATO","domain":"legal"}
+{"text":"Quero saber quem é responsável por cumprir esta obrigação contratual.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso analisar as condições para renovar meu contrato.","label":"CONTRATO","domain":"legal"}
+{"text":"Quero entender o que acontece se uma das partes descumprir o acordo.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho um contrato de prestação de serviços e preciso revisar os termos.","label":"CONTRATO","domain":"legal"}
+{"text":"Quero verificar se posso alterar uma condição do contrato.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso identificar cláusulas que possam me trazer prejuízo.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso consultar o número e a situação do meu processo.","label":"PROCESSO","domain":"legal"}
+{"text":"Quero saber qual foi a última movimentação judicial.","label":"PROCESSO","domain":"legal"}
+{"text":"Como descubro se meu processo teve alguma atualização?","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso verificar se houve despacho no processo.","label":"PROCESSO","domain":"legal"}
+{"text":"Quero entender em qual etapa processual estou.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de saber se o processo já foi encaminhado para julgamento.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso conferir se existe uma nova decisão no processo.","label":"PROCESSO","domain":"legal"}
+{"text":"Quero acompanhar o andamento de uma ação judicial.","label":"PROCESSO","domain":"legal"}
+{"text":"Como posso consultar a situação atual do processo?","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso preparar uma petição para juntar documentos.","label":"PETICAO","domain":"legal"}
+{"text":"Quero saber como apresentar uma petição intermediária.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso revisar os pedidos de uma petição inicial.","label":"PETICAO","domain":"legal"}
+{"text":"Quero elaborar uma réplica à contestação.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho que apresentar uma petição de manifestação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso saber qual peça devo protocolar neste momento.","label":"PETICAO","domain":"legal"}
+{"text":"Quero ajuda para estruturar uma defesa por escrito.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso preparar uma petição para informar um fato novo.","label":"PETICAO","domain":"legal"}
+{"text":"Quero conferir se minha petição está adequada antes do protocolo.","label":"PETICAO","domain":"legal"}
+{"text":"Qual é a data final para apresentar minha defesa?","label":"PRAZO","domain":"legal"}
+{"text":"Preciso calcular o prazo depois de uma intimação.","label":"PRAZO","domain":"legal"}
+{"text":"Quero saber se ainda posso apresentar essa manifestação.","label":"PRAZO","domain":"legal"}
+{"text":"Quando começa a correr o prazo processual neste caso?","label":"PRAZO","domain":"legal"}
+{"text":"Preciso descobrir quantos dias tenho para recorrer da decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Quero confirmar se o prazo termina nesta semana.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para contar o prazo de uma intimação?","label":"PRAZO","domain":"legal"}
+{"text":"Preciso saber se houve perda do prazo para recorrer.","label":"PRAZO","domain":"legal"}
+{"text":"Quero verificar a data limite para protocolar o documento.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma audiência marcada e preciso saber como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber quem precisa estar presente na audiência.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso entender como funciona uma audiência de conciliação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"O que devo fazer no dia da audiência?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber se posso pedir o adiamento da audiência.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso entender a diferença entre audiência presencial e virtual.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber como devo me comportar durante a audiência.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvidas sobre a participação das testemunhas na audiência.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso conferir os documentos que devo levar para a audiência.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma dúvida jurídica e não sei qual medida tomar.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero entender quais direitos tenho nessa situação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso avaliar juridicamente um problema que aconteceu comigo.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de saber quais caminhos legais existem para meu caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero uma orientação geral sobre uma questão jurídica.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso descobrir se existe alguma solução judicial para o meu problema.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação complicada e preciso entender minhas opções legais.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero saber quais consequências jurídicas podem surgir desse caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso identificar qual área do Direito pode tratar do meu problema.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero saber se tenho direito a receber horas extras.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso entender meus direitos em uma demissão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Meu empregador atrasou meu salário e quero saber o que fazer.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero verificar se meu vínculo de trabalho está regular.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvidas sobre o pagamento das verbas rescisórias.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso entender meus direitos durante o aviso prévio.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero saber se posso cobrar férias vencidas do empregador.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho um problema com meu contrato de trabalho e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero verificar se os depósitos do FGTS estão corretos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso entender como funciona um pedido de divórcio.","label":"FAMILIA","domain":"legal"}
+{"text":"Quero saber como solicitar a guarda dos meus filhos.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvidas sobre pensão alimentícia para meu filho.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso regulamentar a convivência com meus filhos.","label":"FAMILIA","domain":"legal"}
+{"text":"Quero entender como funciona a divisão de bens no divórcio.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma questão sobre reconhecimento de paternidade.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso saber como alterar o valor da pensão alimentícia.","label":"FAMILIA","domain":"legal"}
+{"text":"Quero orientação sobre direitos decorrentes de união estável.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma disputa familiar relacionada à guarda e preciso entender as opções.","label":"FAMILIA","domain":"legal"}
+{"text":"Quero reclamar de um produto que apresentou defeito.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso contestar uma cobrança que não reconheço.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Minha compra foi cancelada e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero saber se posso devolver um produto comprado pela internet.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"A empresa não entregou o produto no prazo e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho problemas com uma cobrança recorrente que não autorizei.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero reclamar de um serviço que não foi prestado corretamente.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Meu nome foi negativado por uma dívida que desconheço.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso entender meus direitos depois de uma compra com problema.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso revisar um acordo entre os sócios da empresa.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero entender como funciona a saída de um sócio.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvidas sobre a alteração do contrato social.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso estabelecer regras de governança para minha empresa.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero saber como formalizar a entrada de um novo sócio.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação sobre um conflito societário.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero proteger informações confidenciais da minha empresa.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvidas jurídicas sobre a distribuição de lucros.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso entender como encerrar uma sociedade empresarial.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero saber quanto tempo falta para minha aposentadoria.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso entender por que meu benefício do INSS foi negado.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvidas sobre meu histórico de contribuições.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero contestar o resultado de um pedido previdenciário.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso saber se posso solicitar um benefício do INSS.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero verificar se o cálculo da minha aposentadoria está correto.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvidas sobre auxílio por incapacidade temporária.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso entender quem pode receber pensão por morte.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero orientação sobre uma decisão administrativa do INSS.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou sendo investigado e preciso entender meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero saber o que fazer depois de receber uma intimação policial.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso entender meus direitos durante um interrogatório.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvidas sobre uma investigação aberta contra mim.","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero saber como funciona uma defesa em processo criminal.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação porque fui chamado para prestar depoimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero entender o que acontece depois de um inquérito policial.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma acusação criminal e quero conhecer as opções de defesa.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso acompanhar uma ocorrência que virou investigação.","label":"CRIMINAL","domain":"legal"}
