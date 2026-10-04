@@ -20,3 +20,10 @@ Formato: `{"text":"Quero revisar um contrato antes de assinar.","label":"CONTRAT
 O conjunto é sintético e destinado a experimentação de classificação/fine-tuning; não é corpus jurídico nem fonte de aconselhamento jurídico.
 
 Métricas: accuracy, macro-F1, matriz de confusão, confiança e taxa de confusão entre categorias.
+
+
+## Fine-tuning com Laya
+
+Guia para fine-tuning do classificador jurídico usando Laya em GPU NVIDIA RTX 4070 local/WSL2 e Google Colab: `docs/laya-finetuning.md`.
+
+O conversor `scripts/legal_to_laya.py` transforma os JSONL jurídicos no formato `state/questions/gold` usado pelo treinamento do Laya.
