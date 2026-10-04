@@ -33,7 +33,9 @@ The first experiment uses one-hot gold probabilities. A stronger second experime
 
 A desktop RTX 4070 commonly has 12 GB VRAM, so memory is the main constraint. The English Laya checkpoint has about 421M parameters and the official recipe fine-tunes the encoder and decision head.
 
-For WSL2/Ubuntu:
+### Option A — WSL2
+
+If WSL2 exposes the GPU correctly, use:
 
 ```bash
 nvidia-smi
@@ -54,7 +56,87 @@ print("GPU:", torch.cuda.get_device_name(0))
 print("VRAM GiB:", torch.cuda.get_device_properties(0).total_memory / 2**30)
 ```
 
-Start conservatively on 12 GB:
+If `torch.cuda.is_available()` is false in WSL2, do not spend time trying to force the Laya process to use the GPU. Use the native Windows path below or Google Colab.
+
+### Option B — native Windows + NVIDIA GPU
+
+This path does **not** require WSL2. PyTorch supports native Windows with NVIDIA CUDA, and the Laya repository documents a native Windows PowerShell virtual environment. Install the CUDA-enabled PyTorch wheel selected for Windows from the official PyTorch installer instructions, before installing Laya.
+
+First check the driver/GPU from PowerShell:
+
+```powershell
+nvidia-smi
+py -3.11 --version
+```
+
+Create an isolated Python environment:
+
+```powershell
+py -3.11 -m venv .venv-laya
+.\.venv-laya\Scripts\python.exe -m pip install -U pip
+```
+
+Install the **CUDA-enabled** PyTorch build. Use the current selector at https://pytorch.org/get-started/locally/ and choose:
+
+```text
+OS: Windows
+Package: Pip
+Language: Python
+Compute Platform: CUDA
+```
+
+For example, if the selector gives a command using a `cuXXX` index, run that exact command:
+
+```powershell
+.\.venv-laya\Scripts\python.exe -m pip install torch --index-url <CUDA-index-from-PyTorch>
+```
+
+Do not copy a Linux/WSL CUDA command into PowerShell. The PyTorch wheel supplies the required CUDA runtime components; the NVIDIA driver remains required.
+
+Verify that native Windows Python can see the GPU **before** installing/training Laya:
+
+```powershell
+.\.venv-laya\Scripts\python.exe -c "import torch; print('torch:', torch.__version__); print('CUDA:', torch.cuda.is_available()); print('CUDA version:', torch.version.cuda); print('GPU:', torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'NONE'); print('VRAM GiB:', round(torch.cuda.get_device_properties(0).total_memory / 2**30, 2) if torch.cuda.is_available() else 0)"
+```
+
+The expected result is `CUDA: True` and your RTX 4070 name.
+
+Then install Laya and the training dependencies:
+
+```powershell
+.\.venv-laya\Scripts\python.exe -m pip install laya
+.\.venv-laya\Scripts\python.exe -m pip install transformers datasets safetensors huggingface_hub pyarrow pandas scipy accelerate
+```
+
+For the Python training implementation, use the upstream training repository:
+
+```powershell
+git clone https://github.com/NandhaKishorM/laya.git
+cd laya
+..\.venv-laya\Scripts\python.exe -m pip install -e .
+```
+
+Or, if you already cloned it, install it in editable mode from that checkout.
+
+Download the base checkpoint:
+
+```powershell
+..\.venv-laya\Scripts\python.exe -c "from huggingface_hub import snapshot_download; snapshot_download('convaiinnovations/laya', local_dir='../laya_base')"
+```
+
+From the dataset repository, generate the Laya records:
+
+```powershell
+cd ..\intent-datasets-4finetuning
+.\.venv-laya\Scripts\python.exe scripts\legal_to_laya.py --input datasets\legal\train.jsonl --output datasets\legal\laya\train.jsonl
+.\.venv-laya\Scripts\python.exe scripts\legal_to_laya.py --input datasets\legal\eval.jsonl --output datasets\legal\laya\eval.jsonl
+```
+
+If the virtual environment is outside the dataset repository, replace `\.venv-laya\Scripts\python.exe` with its absolute path.
+
+### Recommended native-Windows settings for a 12 GB RTX 4070
+
+Start conservatively:
 
 ```text
 device                  cuda:0
@@ -67,30 +149,20 @@ gradient checkpointing  encoder + head
 mixed precision         fp16
 ```
 
-If stable, increase micro-batch or reduce gradient accumulation. If OOM, reduce micro-batch first.
+If the run is stable, increase micro-batch gradually. If it runs out of VRAM, reduce micro-batch first and/or reduce sequence lengths.
 
-Laya also has a documented single-GPU specialization on an RTX 4070 Ti SUPER 16 GB. That demonstrates the RLCD approach on one GPU; a 12 GB 4070 should be treated as the lower-memory variant requiring smaller micro-batches and possibly shorter sequences.
+The upstream Laya project has a documented single-GPU fine-tuning example on a 16 GB GPU. That demonstrates the training approach on one GPU; a 12 GB RTX 4070 should be treated as the constrained configuration.
 
-## Training implementation
+### Important Windows distinction
 
-The npm package @receptron/laya is primarily the Node.js/ONNX runtime. The Python fine-tuning implementation is maintained separately.
+There are two different Laya repositories/roles:
 
-Clone it:
+- `receptron/laya`: Node.js/TypeScript runtime using ONNX.
+- `NandhaKishorM/laya`: Python training/fine-tuning implementation.
 
-```bash
-git clone https://github.com/NandhaKishorM/laya.git
-cd laya
-python3.11 -m venv .venv
-source .venv/bin/activate
-python -m pip install -U pip
-python -m pip install -e .
-```
+For fine-tuning, use the Python training implementation. The Node.js package is useful after training for deploying the resulting decision model.
 
-The reference notebook is notebooks/laya_finetune_typed_decisions_2xT4_kaggle.ipynb.
-
-For a single RTX 4070, adapt that training loop to remove DDP/torchrun and keep build_model, build_sequence, render_options, proper_reward, gradient checkpointing, mixed precision, gradient accumulation, temperature calibration and held-out evaluation.
-
-Do not turn this into a causal-LM generate() training loop. Laya is a decision model.
+Do not turn this into a causal-LM `generate()` training loop. Laya is a decision model.
 
 ## Download the base checkpoint
 
@@ -196,7 +268,7 @@ Recommended metrics: accuracy, macro-F1, confusion matrix, Brier score, ECE, con
 
 Temperature scaling should use a calibration split, while the final claim should be measured on a separate untouched evaluation split. Temperature scaling changes confidence, not the argmax label.
 
-The useful output is not only CONTrATO; it is the distribution, for example:
+The useful output is not only CONTRATO; it is the distribution, for example:
 
 ```text
 CONTRATO     0.91
@@ -229,3 +301,4 @@ The current legal dataset is a small synthetic pilot. It is an engineering basel
 - Fine-tuning notebook: https://github.com/NandhaKishorM/laya/blob/main/notebooks/laya_finetune_typed_decisions_2xT4_kaggle.ipynb
 - Fine-tuning guide: https://github.com/NandhaKishorM/laya/blob/main/docs/finetune.md
 - Single-GPU 16 GB example: https://github.com/NandhaKishorM/laya/blob/main/docs/finetune_browser_agent.md
+- PyTorch Windows installation: https://pytorch.org/get-started/locally/
