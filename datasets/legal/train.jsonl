@@ -202,3 +202,1203 @@
 {"text":"Quero entender o que acontece depois de um inquérito policial.","label":"CRIMINAL","domain":"legal"}
 {"text":"Tenho uma acusação criminal e quero conhecer as opções de defesa.","label":"CRIMINAL","domain":"legal"}
 {"text":"Preciso acompanhar uma ocorrência que virou investigação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso revisar as condições antes de assinar?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero revisar as condições antes de assinar e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de revisar as condições antes de assinar o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para revisar as condições antes de assinar e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando revisar as condições antes de assinar neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a revisar as condições antes de assinar e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para revisar as condições antes de assinar porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como revisar as condições antes de assinar agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para revisar as condições antes de assinar antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso revisar as condições antes de assinar sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso entender uma cláusula de rescisão?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero entender uma cláusula de rescisão e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de entender uma cláusula de rescisão o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para entender uma cláusula de rescisão e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando entender uma cláusula de rescisão neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a entender uma cláusula de rescisão e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para entender uma cláusula de rescisão porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como entender uma cláusula de rescisão agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para entender uma cláusula de rescisão antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender uma cláusula de rescisão sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso verificar uma obrigação prevista no acordo?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero verificar uma obrigação prevista no acordo e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de verificar uma obrigação prevista no acordo o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para verificar uma obrigação prevista no acordo e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando verificar uma obrigação prevista no acordo neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a verificar uma obrigação prevista no acordo e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para verificar uma obrigação prevista no acordo porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como verificar uma obrigação prevista no acordo agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para verificar uma obrigação prevista no acordo antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar uma obrigação prevista no acordo sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso avaliar uma cláusula de multa?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero avaliar uma cláusula de multa e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de avaliar uma cláusula de multa o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para avaliar uma cláusula de multa e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando avaliar uma cláusula de multa neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a avaliar uma cláusula de multa e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para avaliar uma cláusula de multa porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como avaliar uma cláusula de multa agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para avaliar uma cláusula de multa antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso avaliar uma cláusula de multa sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso entender as condições de renovação?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero entender as condições de renovação e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de entender as condições de renovação o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para entender as condições de renovação e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando entender as condições de renovação neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a entender as condições de renovação e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para entender as condições de renovação porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como entender as condições de renovação agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para entender as condições de renovação antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender as condições de renovação sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso conferir os direitos e deveres das partes?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero conferir os direitos e deveres das partes e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de conferir os direitos e deveres das partes o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para conferir os direitos e deveres das partes e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando conferir os direitos e deveres das partes neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a conferir os direitos e deveres das partes e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para conferir os direitos e deveres das partes porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como conferir os direitos e deveres das partes agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para conferir os direitos e deveres das partes antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso conferir os direitos e deveres das partes sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso analisar um contrato de prestação de serviços?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero analisar um contrato de prestação de serviços e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de analisar um contrato de prestação de serviços o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para analisar um contrato de prestação de serviços e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando analisar um contrato de prestação de serviços neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a analisar um contrato de prestação de serviços e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para analisar um contrato de prestação de serviços porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como analisar um contrato de prestação de serviços agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para analisar um contrato de prestação de serviços antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso analisar um contrato de prestação de serviços sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso verificar se uma alteração contratual é possível?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero verificar se uma alteração contratual é possível e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de verificar se uma alteração contratual é possível o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para verificar se uma alteração contratual é possível e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando verificar se uma alteração contratual é possível neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a verificar se uma alteração contratual é possível e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para verificar se uma alteração contratual é possível porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como verificar se uma alteração contratual é possível agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para verificar se uma alteração contratual é possível antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar se uma alteração contratual é possível sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso entender as consequências de um descumprimento?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero entender as consequências de um descumprimento e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de entender as consequências de um descumprimento o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para entender as consequências de um descumprimento e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando entender as consequências de um descumprimento neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a entender as consequências de um descumprimento e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para entender as consequências de um descumprimento porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como entender as consequências de um descumprimento agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para entender as consequências de um descumprimento antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender as consequências de um descumprimento sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso comparar duas versões do contrato?","label":"CONTRATO","domain":"legal"}
+{"text":"Quero comparar duas versões do contrato e não sei como proceder.","label":"CONTRATO","domain":"legal"}
+{"text":"Gostaria de comparar duas versões do contrato o quanto antes.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho dúvida para comparar duas versões do contrato e quero saber meus direitos.","label":"CONTRATO","domain":"legal"}
+{"text":"Estou tentando comparar duas versões do contrato neste caso.","label":"CONTRATO","domain":"legal"}
+{"text":"Pode me ajudar a comparar duas versões do contrato e preciso de orientação.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso de orientação para comparar duas versões do contrato porque não conheço o procedimento.","label":"CONTRATO","domain":"legal"}
+{"text":"Queria entender como comparar duas versões do contrato agora.","label":"CONTRATO","domain":"legal"}
+{"text":"Como faço para comparar duas versões do contrato antes de tomar uma decisão.","label":"CONTRATO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso comparar duas versões do contrato sem cometer um erro.","label":"CONTRATO","domain":"legal"}
+{"text":"Preciso consultar a movimentação mais recente?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero consultar a movimentação mais recente e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de consultar a movimentação mais recente o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para consultar a movimentação mais recente e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando consultar a movimentação mais recente neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a consultar a movimentação mais recente e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para consultar a movimentação mais recente porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como consultar a movimentação mais recente agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para consultar a movimentação mais recente antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso consultar a movimentação mais recente sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso entender em que fase está a ação?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero entender em que fase está a ação e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de entender em que fase está a ação o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para entender em que fase está a ação e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando entender em que fase está a ação neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a entender em que fase está a ação e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para entender em que fase está a ação porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como entender em que fase está a ação agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para entender em que fase está a ação antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender em que fase está a ação sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso verificar se houve uma decisão?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero verificar se houve uma decisão e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de verificar se houve uma decisão o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para verificar se houve uma decisão e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando verificar se houve uma decisão neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a verificar se houve uma decisão e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para verificar se houve uma decisão porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como verificar se houve uma decisão agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para verificar se houve uma decisão antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar se houve uma decisão sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso acompanhar o andamento judicial?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero acompanhar o andamento judicial e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de acompanhar o andamento judicial o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para acompanhar o andamento judicial e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando acompanhar o andamento judicial neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a acompanhar o andamento judicial e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para acompanhar o andamento judicial porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como acompanhar o andamento judicial agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para acompanhar o andamento judicial antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso acompanhar o andamento judicial sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso saber se o processo foi arquivado?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero saber se o processo foi arquivado e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de saber se o processo foi arquivado o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para saber se o processo foi arquivado e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando saber se o processo foi arquivado neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a saber se o processo foi arquivado e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para saber se o processo foi arquivado porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como saber se o processo foi arquivado agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para saber se o processo foi arquivado antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber se o processo foi arquivado sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso localizar uma ação pelo número?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero localizar uma ação pelo número e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de localizar uma ação pelo número o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para localizar uma ação pelo número e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando localizar uma ação pelo número neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a localizar uma ação pelo número e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para localizar uma ação pelo número porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como localizar uma ação pelo número agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para localizar uma ação pelo número antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso localizar uma ação pelo número sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso entender uma movimentação registrada?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero entender uma movimentação registrada e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de entender uma movimentação registrada o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para entender uma movimentação registrada e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando entender uma movimentação registrada neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a entender uma movimentação registrada e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para entender uma movimentação registrada porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como entender uma movimentação registrada agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para entender uma movimentação registrada antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender uma movimentação registrada sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso verificar se o processo foi encaminhado para julgamento?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero verificar se o processo foi encaminhado para julgamento e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de verificar se o processo foi encaminhado para julgamento o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para verificar se o processo foi encaminhado para julgamento e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando verificar se o processo foi encaminhado para julgamento neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a verificar se o processo foi encaminhado para julgamento e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para verificar se o processo foi encaminhado para julgamento porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como verificar se o processo foi encaminhado para julgamento agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para verificar se o processo foi encaminhado para julgamento antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar se o processo foi encaminhado para julgamento sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso conferir o histórico da ação?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero conferir o histórico da ação e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de conferir o histórico da ação o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para conferir o histórico da ação e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando conferir o histórico da ação neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a conferir o histórico da ação e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para conferir o histórico da ação porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como conferir o histórico da ação agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para conferir o histórico da ação antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso conferir o histórico da ação sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso saber qual é a situação atual do processo?","label":"PROCESSO","domain":"legal"}
+{"text":"Quero saber qual é a situação atual do processo e não sei como proceder.","label":"PROCESSO","domain":"legal"}
+{"text":"Gostaria de saber qual é a situação atual do processo o quanto antes.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho dúvida para saber qual é a situação atual do processo e quero saber meus direitos.","label":"PROCESSO","domain":"legal"}
+{"text":"Estou tentando saber qual é a situação atual do processo neste caso.","label":"PROCESSO","domain":"legal"}
+{"text":"Pode me ajudar a saber qual é a situação atual do processo e preciso de orientação.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso de orientação para saber qual é a situação atual do processo porque não conheço o procedimento.","label":"PROCESSO","domain":"legal"}
+{"text":"Queria entender como saber qual é a situação atual do processo agora.","label":"PROCESSO","domain":"legal"}
+{"text":"Como faço para saber qual é a situação atual do processo antes de tomar uma decisão.","label":"PROCESSO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber qual é a situação atual do processo sem cometer um erro.","label":"PROCESSO","domain":"legal"}
+{"text":"Preciso preparar uma petição?","label":"PETICAO","domain":"legal"}
+{"text":"Quero preparar uma petição e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de preparar uma petição o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para preparar uma petição e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando preparar uma petição neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a preparar uma petição e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para preparar uma petição porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como preparar uma petição agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para preparar uma petição antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso preparar uma petição sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso elaborar uma manifestação?","label":"PETICAO","domain":"legal"}
+{"text":"Quero elaborar uma manifestação e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de elaborar uma manifestação o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para elaborar uma manifestação e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando elaborar uma manifestação neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a elaborar uma manifestação e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para elaborar uma manifestação porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como elaborar uma manifestação agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para elaborar uma manifestação antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso elaborar uma manifestação sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso escolher a peça processual adequada?","label":"PETICAO","domain":"legal"}
+{"text":"Quero escolher a peça processual adequada e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de escolher a peça processual adequada o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para escolher a peça processual adequada e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando escolher a peça processual adequada neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a escolher a peça processual adequada e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para escolher a peça processual adequada porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como escolher a peça processual adequada agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para escolher a peça processual adequada antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso escolher a peça processual adequada sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso juntar documentos por petição?","label":"PETICAO","domain":"legal"}
+{"text":"Quero juntar documentos por petição e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de juntar documentos por petição o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para juntar documentos por petição e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando juntar documentos por petição neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a juntar documentos por petição e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para juntar documentos por petição porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como juntar documentos por petição agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para juntar documentos por petição antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso juntar documentos por petição sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso preparar uma réplica?","label":"PETICAO","domain":"legal"}
+{"text":"Quero preparar uma réplica e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de preparar uma réplica o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para preparar uma réplica e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando preparar uma réplica neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a preparar uma réplica e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para preparar uma réplica porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como preparar uma réplica agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para preparar uma réplica antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso preparar uma réplica sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso elaborar uma contestação?","label":"PETICAO","domain":"legal"}
+{"text":"Quero elaborar uma contestação e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de elaborar uma contestação o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para elaborar uma contestação e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando elaborar uma contestação neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a elaborar uma contestação e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para elaborar uma contestação porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como elaborar uma contestação agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para elaborar uma contestação antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso elaborar uma contestação sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso revisar uma peça antes do protocolo?","label":"PETICAO","domain":"legal"}
+{"text":"Quero revisar uma peça antes do protocolo e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de revisar uma peça antes do protocolo o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para revisar uma peça antes do protocolo e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando revisar uma peça antes do protocolo neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a revisar uma peça antes do protocolo e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para revisar uma peça antes do protocolo porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como revisar uma peça antes do protocolo agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para revisar uma peça antes do protocolo antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso revisar uma peça antes do protocolo sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso responder à manifestação da outra parte?","label":"PETICAO","domain":"legal"}
+{"text":"Quero responder à manifestação da outra parte e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de responder à manifestação da outra parte o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para responder à manifestação da outra parte e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando responder à manifestação da outra parte neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a responder à manifestação da outra parte e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para responder à manifestação da outra parte porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como responder à manifestação da outra parte agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para responder à manifestação da outra parte antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso responder à manifestação da outra parte sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso informar um fato novo por petição?","label":"PETICAO","domain":"legal"}
+{"text":"Quero informar um fato novo por petição e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de informar um fato novo por petição o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para informar um fato novo por petição e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando informar um fato novo por petição neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a informar um fato novo por petição e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para informar um fato novo por petição porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como informar um fato novo por petição agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para informar um fato novo por petição antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso informar um fato novo por petição sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso protocolar uma manifestação no processo?","label":"PETICAO","domain":"legal"}
+{"text":"Quero protocolar uma manifestação no processo e não sei como proceder.","label":"PETICAO","domain":"legal"}
+{"text":"Gostaria de protocolar uma manifestação no processo o quanto antes.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho dúvida para protocolar uma manifestação no processo e quero saber meus direitos.","label":"PETICAO","domain":"legal"}
+{"text":"Estou tentando protocolar uma manifestação no processo neste caso.","label":"PETICAO","domain":"legal"}
+{"text":"Pode me ajudar a protocolar uma manifestação no processo e preciso de orientação.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso de orientação para protocolar uma manifestação no processo porque não conheço o procedimento.","label":"PETICAO","domain":"legal"}
+{"text":"Queria entender como protocolar uma manifestação no processo agora.","label":"PETICAO","domain":"legal"}
+{"text":"Como faço para protocolar uma manifestação no processo antes de tomar uma decisão.","label":"PETICAO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso protocolar uma manifestação no processo sem cometer um erro.","label":"PETICAO","domain":"legal"}
+{"text":"Preciso calcular a data limite?","label":"PRAZO","domain":"legal"}
+{"text":"Quero calcular a data limite e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de calcular a data limite o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para calcular a data limite e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando calcular a data limite neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a calcular a data limite e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para calcular a data limite porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como calcular a data limite agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para calcular a data limite antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso calcular a data limite sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso saber quantos dias tenho para recorrer?","label":"PRAZO","domain":"legal"}
+{"text":"Quero saber quantos dias tenho para recorrer e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de saber quantos dias tenho para recorrer o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para saber quantos dias tenho para recorrer e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando saber quantos dias tenho para recorrer neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a saber quantos dias tenho para recorrer e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para saber quantos dias tenho para recorrer porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como saber quantos dias tenho para recorrer agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para saber quantos dias tenho para recorrer antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber quantos dias tenho para recorrer sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso entender quando começa a contagem?","label":"PRAZO","domain":"legal"}
+{"text":"Quero entender quando começa a contagem e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de entender quando começa a contagem o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para entender quando começa a contagem e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando entender quando começa a contagem neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a entender quando começa a contagem e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para entender quando começa a contagem porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como entender quando começa a contagem agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para entender quando começa a contagem antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender quando começa a contagem sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso verificar se ainda estou dentro do prazo?","label":"PRAZO","domain":"legal"}
+{"text":"Quero verificar se ainda estou dentro do prazo e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de verificar se ainda estou dentro do prazo o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para verificar se ainda estou dentro do prazo e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando verificar se ainda estou dentro do prazo neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a verificar se ainda estou dentro do prazo e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para verificar se ainda estou dentro do prazo porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como verificar se ainda estou dentro do prazo agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para verificar se ainda estou dentro do prazo antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar se ainda estou dentro do prazo sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso calcular o prazo depois da intimação?","label":"PRAZO","domain":"legal"}
+{"text":"Quero calcular o prazo depois da intimação e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de calcular o prazo depois da intimação o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para calcular o prazo depois da intimação e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando calcular o prazo depois da intimação neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a calcular o prazo depois da intimação e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para calcular o prazo depois da intimação porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como calcular o prazo depois da intimação agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para calcular o prazo depois da intimação antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso calcular o prazo depois da intimação sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso confirmar a data final para manifestação?","label":"PRAZO","domain":"legal"}
+{"text":"Quero confirmar a data final para manifestação e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de confirmar a data final para manifestação o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para confirmar a data final para manifestação e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando confirmar a data final para manifestação neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a confirmar a data final para manifestação e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para confirmar a data final para manifestação porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como confirmar a data final para manifestação agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para confirmar a data final para manifestação antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso confirmar a data final para manifestação sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso saber se a contagem é em dias úteis?","label":"PRAZO","domain":"legal"}
+{"text":"Quero saber se a contagem é em dias úteis e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de saber se a contagem é em dias úteis o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para saber se a contagem é em dias úteis e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando saber se a contagem é em dias úteis neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a saber se a contagem é em dias úteis e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para saber se a contagem é em dias úteis porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como saber se a contagem é em dias úteis agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para saber se a contagem é em dias úteis antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber se a contagem é em dias úteis sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso verificar se perdi o prazo?","label":"PRAZO","domain":"legal"}
+{"text":"Quero verificar se perdi o prazo e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de verificar se perdi o prazo o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para verificar se perdi o prazo e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando verificar se perdi o prazo neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a verificar se perdi o prazo e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para verificar se perdi o prazo porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como verificar se perdi o prazo agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para verificar se perdi o prazo antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar se perdi o prazo sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso calcular o prazo para apresentar defesa?","label":"PRAZO","domain":"legal"}
+{"text":"Quero calcular o prazo para apresentar defesa e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de calcular o prazo para apresentar defesa o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para calcular o prazo para apresentar defesa e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando calcular o prazo para apresentar defesa neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a calcular o prazo para apresentar defesa e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para calcular o prazo para apresentar defesa porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como calcular o prazo para apresentar defesa agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para calcular o prazo para apresentar defesa antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso calcular o prazo para apresentar defesa sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso confirmar quando termina o prazo?","label":"PRAZO","domain":"legal"}
+{"text":"Quero confirmar quando termina o prazo e não sei como proceder.","label":"PRAZO","domain":"legal"}
+{"text":"Gostaria de confirmar quando termina o prazo o quanto antes.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho dúvida para confirmar quando termina o prazo e quero saber meus direitos.","label":"PRAZO","domain":"legal"}
+{"text":"Estou tentando confirmar quando termina o prazo neste caso.","label":"PRAZO","domain":"legal"}
+{"text":"Pode me ajudar a confirmar quando termina o prazo e preciso de orientação.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso de orientação para confirmar quando termina o prazo porque não conheço o procedimento.","label":"PRAZO","domain":"legal"}
+{"text":"Queria entender como confirmar quando termina o prazo agora.","label":"PRAZO","domain":"legal"}
+{"text":"Como faço para confirmar quando termina o prazo antes de tomar uma decisão.","label":"PRAZO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso confirmar quando termina o prazo sem cometer um erro.","label":"PRAZO","domain":"legal"}
+{"text":"Preciso me preparar para uma audiência?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero me preparar para uma audiência e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de me preparar para uma audiência o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para me preparar para uma audiência e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando me preparar para uma audiência neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a me preparar para uma audiência e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para me preparar para uma audiência porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como me preparar para uma audiência agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para me preparar para uma audiência antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso me preparar para uma audiência sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso saber quem precisa comparecer?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber quem precisa comparecer e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de saber quem precisa comparecer o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para saber quem precisa comparecer e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando saber quem precisa comparecer neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a saber quem precisa comparecer e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para saber quem precisa comparecer porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como saber quem precisa comparecer agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para saber quem precisa comparecer antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber quem precisa comparecer sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso entender como funciona a audiência?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero entender como funciona a audiência e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de entender como funciona a audiência o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para entender como funciona a audiência e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando entender como funciona a audiência neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a entender como funciona a audiência e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para entender como funciona a audiência porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como entender como funciona a audiência agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para entender como funciona a audiência antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender como funciona a audiência sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso saber o que levar para a audiência?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber o que levar para a audiência e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de saber o que levar para a audiência o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para saber o que levar para a audiência e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando saber o que levar para a audiência neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a saber o que levar para a audiência e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para saber o que levar para a audiência porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como saber o que levar para a audiência agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para saber o que levar para a audiência antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber o que levar para a audiência sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso entender o papel das testemunhas?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero entender o papel das testemunhas e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de entender o papel das testemunhas o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para entender o papel das testemunhas e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando entender o papel das testemunhas neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a entender o papel das testemunhas e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para entender o papel das testemunhas porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como entender o papel das testemunhas agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para entender o papel das testemunhas antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender o papel das testemunhas sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso saber se posso participar virtualmente?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber se posso participar virtualmente e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de saber se posso participar virtualmente o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para saber se posso participar virtualmente e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando saber se posso participar virtualmente neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a saber se posso participar virtualmente e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para saber se posso participar virtualmente porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como saber se posso participar virtualmente agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para saber se posso participar virtualmente antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber se posso participar virtualmente sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso verificar se minha presença é obrigatória?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero verificar se minha presença é obrigatória e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de verificar se minha presença é obrigatória o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para verificar se minha presença é obrigatória e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando verificar se minha presença é obrigatória neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a verificar se minha presença é obrigatória e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para verificar se minha presença é obrigatória porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como verificar se minha presença é obrigatória agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para verificar se minha presença é obrigatória antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar se minha presença é obrigatória sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso entender o que acontece durante a audiência?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero entender o que acontece durante a audiência e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de entender o que acontece durante a audiência o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para entender o que acontece durante a audiência e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando entender o que acontece durante a audiência neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a entender o que acontece durante a audiência e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para entender o que acontece durante a audiência porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como entender o que acontece durante a audiência agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para entender o que acontece durante a audiência antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender o que acontece durante a audiência sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso pedir orientação sobre adiamento da audiência?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero pedir orientação sobre adiamento da audiência e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de pedir orientação sobre adiamento da audiência o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para pedir orientação sobre adiamento da audiência e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando pedir orientação sobre adiamento da audiência neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a pedir orientação sobre adiamento da audiência e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para pedir orientação sobre adiamento da audiência porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como pedir orientação sobre adiamento da audiência agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para pedir orientação sobre adiamento da audiência antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso pedir orientação sobre adiamento da audiência sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso saber como agir no dia da audiência?","label":"AUDIENCIA","domain":"legal"}
+{"text":"Quero saber como agir no dia da audiência e não sei como proceder.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Gostaria de saber como agir no dia da audiência o quanto antes.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho dúvida para saber como agir no dia da audiência e quero saber meus direitos.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Estou tentando saber como agir no dia da audiência neste caso.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Pode me ajudar a saber como agir no dia da audiência e preciso de orientação.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso de orientação para saber como agir no dia da audiência porque não conheço o procedimento.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Queria entender como saber como agir no dia da audiência agora.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Como faço para saber como agir no dia da audiência antes de tomar uma decisão.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber como agir no dia da audiência sem cometer um erro.","label":"AUDIENCIA","domain":"legal"}
+{"text":"Preciso entender quais direitos tenho?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero entender quais direitos tenho e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de entender quais direitos tenho o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para entender quais direitos tenho e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando entender quais direitos tenho neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a entender quais direitos tenho e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para entender quais direitos tenho porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como entender quais direitos tenho agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para entender quais direitos tenho antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender quais direitos tenho sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso avaliar quais medidas legais existem?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero avaliar quais medidas legais existem e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de avaliar quais medidas legais existem o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para avaliar quais medidas legais existem e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando avaliar quais medidas legais existem neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a avaliar quais medidas legais existem e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para avaliar quais medidas legais existem porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como avaliar quais medidas legais existem agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para avaliar quais medidas legais existem antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso avaliar quais medidas legais existem sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso descobrir qual caminho jurídico seguir?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero descobrir qual caminho jurídico seguir e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de descobrir qual caminho jurídico seguir o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para descobrir qual caminho jurídico seguir e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando descobrir qual caminho jurídico seguir neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a descobrir qual caminho jurídico seguir e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para descobrir qual caminho jurídico seguir porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como descobrir qual caminho jurídico seguir agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para descobrir qual caminho jurídico seguir antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso descobrir qual caminho jurídico seguir sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso entender as consequências jurídicas de uma situação?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero entender as consequências jurídicas de uma situação e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de entender as consequências jurídicas de uma situação o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para entender as consequências jurídicas de uma situação e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando entender as consequências jurídicas de uma situação neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a entender as consequências jurídicas de uma situação e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para entender as consequências jurídicas de uma situação porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como entender as consequências jurídicas de uma situação agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para entender as consequências jurídicas de uma situação antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender as consequências jurídicas de uma situação sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso saber se existe uma solução judicial?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero saber se existe uma solução judicial e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de saber se existe uma solução judicial o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para saber se existe uma solução judicial e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando saber se existe uma solução judicial neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a saber se existe uma solução judicial e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para saber se existe uma solução judicial porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como saber se existe uma solução judicial agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para saber se existe uma solução judicial antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber se existe uma solução judicial sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso identificar qual área do Direito atende meu problema?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero identificar qual área do Direito atende meu problema e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de identificar qual área do Direito atende meu problema o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para identificar qual área do Direito atende meu problema e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando identificar qual área do Direito atende meu problema neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a identificar qual área do Direito atende meu problema e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para identificar qual área do Direito atende meu problema porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como identificar qual área do Direito atende meu problema agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para identificar qual área do Direito atende meu problema antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso identificar qual área do Direito atende meu problema sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso avaliar se vale a pena procurar a Justiça?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero avaliar se vale a pena procurar a Justiça e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de avaliar se vale a pena procurar a Justiça o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para avaliar se vale a pena procurar a Justiça e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando avaliar se vale a pena procurar a Justiça neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a avaliar se vale a pena procurar a Justiça e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para avaliar se vale a pena procurar a Justiça porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como avaliar se vale a pena procurar a Justiça agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para avaliar se vale a pena procurar a Justiça antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso avaliar se vale a pena procurar a Justiça sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso entender minhas opções legais?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero entender minhas opções legais e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de entender minhas opções legais o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para entender minhas opções legais e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando entender minhas opções legais neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a entender minhas opções legais e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para entender minhas opções legais porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como entender minhas opções legais agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para entender minhas opções legais antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender minhas opções legais sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso receber uma orientação jurídica inicial?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero receber uma orientação jurídica inicial e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de receber uma orientação jurídica inicial o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para receber uma orientação jurídica inicial e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando receber uma orientação jurídica inicial neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a receber uma orientação jurídica inicial e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para receber uma orientação jurídica inicial porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como receber uma orientação jurídica inicial agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para receber uma orientação jurídica inicial antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso receber uma orientação jurídica inicial sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso saber quais providências legais posso tomar?","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Quero saber quais providências legais posso tomar e não sei como proceder.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Gostaria de saber quais providências legais posso tomar o quanto antes.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho dúvida para saber quais providências legais posso tomar e quero saber meus direitos.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Estou tentando saber quais providências legais posso tomar neste caso.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Pode me ajudar a saber quais providências legais posso tomar e preciso de orientação.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso de orientação para saber quais providências legais posso tomar porque não conheço o procedimento.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Queria entender como saber quais providências legais posso tomar agora.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Como faço para saber quais providências legais posso tomar antes de tomar uma decisão.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber quais providências legais posso tomar sem cometer um erro.","label":"CONSULTA_JURIDICA","domain":"legal"}
+{"text":"Preciso verificar meus direitos após uma demissão?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero verificar meus direitos após uma demissão e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de verificar meus direitos após uma demissão o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para verificar meus direitos após uma demissão e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando verificar meus direitos após uma demissão neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a verificar meus direitos após uma demissão e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para verificar meus direitos após uma demissão porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como verificar meus direitos após uma demissão agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para verificar meus direitos após uma demissão antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar meus direitos após uma demissão sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso cobrar horas extras?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero cobrar horas extras e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de cobrar horas extras o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para cobrar horas extras e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando cobrar horas extras neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a cobrar horas extras e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para cobrar horas extras porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como cobrar horas extras agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para cobrar horas extras antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso cobrar horas extras sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso entender férias e décimo terceiro?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero entender férias e décimo terceiro e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de entender férias e décimo terceiro o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para entender férias e décimo terceiro e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando entender férias e décimo terceiro neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a entender férias e décimo terceiro e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para entender férias e décimo terceiro porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como entender férias e décimo terceiro agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para entender férias e décimo terceiro antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender férias e décimo terceiro sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso verificar depósitos de FGTS?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero verificar depósitos de FGTS e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de verificar depósitos de FGTS o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para verificar depósitos de FGTS e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando verificar depósitos de FGTS neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a verificar depósitos de FGTS e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para verificar depósitos de FGTS porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como verificar depósitos de FGTS agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para verificar depósitos de FGTS antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar depósitos de FGTS sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso cobrar salário atrasado?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero cobrar salário atrasado e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de cobrar salário atrasado o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para cobrar salário atrasado e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando cobrar salário atrasado neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a cobrar salário atrasado e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para cobrar salário atrasado porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como cobrar salário atrasado agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para cobrar salário atrasado antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso cobrar salário atrasado sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso entender o aviso prévio?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero entender o aviso prévio e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de entender o aviso prévio o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para entender o aviso prévio e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando entender o aviso prévio neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a entender o aviso prévio e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para entender o aviso prévio porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como entender o aviso prévio agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para entender o aviso prévio antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender o aviso prévio sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso avaliar um vínculo sem registro?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero avaliar um vínculo sem registro e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de avaliar um vínculo sem registro o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para avaliar um vínculo sem registro e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando avaliar um vínculo sem registro neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a avaliar um vínculo sem registro e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para avaliar um vínculo sem registro porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como avaliar um vínculo sem registro agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para avaliar um vínculo sem registro antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso avaliar um vínculo sem registro sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso entender verbas rescisórias?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero entender verbas rescisórias e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de entender verbas rescisórias o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para entender verbas rescisórias e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando entender verbas rescisórias neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a entender verbas rescisórias e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para entender verbas rescisórias porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como entender verbas rescisórias agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para entender verbas rescisórias antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender verbas rescisórias sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso relatar um problema de assédio no trabalho?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero relatar um problema de assédio no trabalho e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de relatar um problema de assédio no trabalho o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para relatar um problema de assédio no trabalho e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando relatar um problema de assédio no trabalho neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a relatar um problema de assédio no trabalho e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para relatar um problema de assédio no trabalho porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como relatar um problema de assédio no trabalho agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para relatar um problema de assédio no trabalho antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso relatar um problema de assédio no trabalho sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso verificar uma irregularidade no contrato de trabalho?","label":"TRABALHISTA","domain":"legal"}
+{"text":"Quero verificar uma irregularidade no contrato de trabalho e não sei como proceder.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Gostaria de verificar uma irregularidade no contrato de trabalho o quanto antes.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho dúvida para verificar uma irregularidade no contrato de trabalho e quero saber meus direitos.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Estou tentando verificar uma irregularidade no contrato de trabalho neste caso.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Pode me ajudar a verificar uma irregularidade no contrato de trabalho e preciso de orientação.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso de orientação para verificar uma irregularidade no contrato de trabalho porque não conheço o procedimento.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Queria entender como verificar uma irregularidade no contrato de trabalho agora.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Como faço para verificar uma irregularidade no contrato de trabalho antes de tomar uma decisão.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar uma irregularidade no contrato de trabalho sem cometer um erro.","label":"TRABALHISTA","domain":"legal"}
+{"text":"Preciso entender como funciona o divórcio?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero entender como funciona o divórcio e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de entender como funciona o divórcio o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para entender como funciona o divórcio e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando entender como funciona o divórcio neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a entender como funciona o divórcio e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para entender como funciona o divórcio porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como entender como funciona o divórcio agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para entender como funciona o divórcio antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender como funciona o divórcio sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso pedir ou revisar pensão alimentícia?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero pedir ou revisar pensão alimentícia e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de pedir ou revisar pensão alimentícia o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para pedir ou revisar pensão alimentícia e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando pedir ou revisar pensão alimentícia neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a pedir ou revisar pensão alimentícia e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para pedir ou revisar pensão alimentícia porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como pedir ou revisar pensão alimentícia agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para pedir ou revisar pensão alimentícia antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso pedir ou revisar pensão alimentícia sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso regularizar a guarda dos filhos?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero regularizar a guarda dos filhos e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de regularizar a guarda dos filhos o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para regularizar a guarda dos filhos e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando regularizar a guarda dos filhos neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a regularizar a guarda dos filhos e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para regularizar a guarda dos filhos porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como regularizar a guarda dos filhos agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para regularizar a guarda dos filhos antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso regularizar a guarda dos filhos sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso organizar a convivência com os filhos?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero organizar a convivência com os filhos e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de organizar a convivência com os filhos o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para organizar a convivência com os filhos e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando organizar a convivência com os filhos neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a organizar a convivência com os filhos e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para organizar a convivência com os filhos porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como organizar a convivência com os filhos agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para organizar a convivência com os filhos antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso organizar a convivência com os filhos sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso entender a partilha de bens no divórcio?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero entender a partilha de bens no divórcio e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de entender a partilha de bens no divórcio o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para entender a partilha de bens no divórcio e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando entender a partilha de bens no divórcio neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a entender a partilha de bens no divórcio e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para entender a partilha de bens no divórcio porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como entender a partilha de bens no divórcio agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para entender a partilha de bens no divórcio antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender a partilha de bens no divórcio sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso reconhecer uma união estável?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero reconhecer uma união estável e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de reconhecer uma união estável o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para reconhecer uma união estável e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando reconhecer uma união estável neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a reconhecer uma união estável e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para reconhecer uma união estável porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como reconhecer uma união estável agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para reconhecer uma união estável antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso reconhecer uma união estável sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso resolver uma questão de paternidade?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero resolver uma questão de paternidade e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de resolver uma questão de paternidade o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para resolver uma questão de paternidade e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando resolver uma questão de paternidade neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a resolver uma questão de paternidade e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para resolver uma questão de paternidade porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como resolver uma questão de paternidade agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para resolver uma questão de paternidade antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso resolver uma questão de paternidade sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso pedir alteração da guarda?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero pedir alteração da guarda e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de pedir alteração da guarda o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para pedir alteração da guarda e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando pedir alteração da guarda neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a pedir alteração da guarda e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para pedir alteração da guarda porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como pedir alteração da guarda agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para pedir alteração da guarda antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso pedir alteração da guarda sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso cobrar pensão alimentícia atrasada?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero cobrar pensão alimentícia atrasada e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de cobrar pensão alimentícia atrasada o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para cobrar pensão alimentícia atrasada e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando cobrar pensão alimentícia atrasada neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a cobrar pensão alimentícia atrasada e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para cobrar pensão alimentícia atrasada porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como cobrar pensão alimentícia atrasada agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para cobrar pensão alimentícia atrasada antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso cobrar pensão alimentícia atrasada sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso entender direitos em uma questão familiar?","label":"FAMILIA","domain":"legal"}
+{"text":"Quero entender direitos em uma questão familiar e não sei como proceder.","label":"FAMILIA","domain":"legal"}
+{"text":"Gostaria de entender direitos em uma questão familiar o quanto antes.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho dúvida para entender direitos em uma questão familiar e quero saber meus direitos.","label":"FAMILIA","domain":"legal"}
+{"text":"Estou tentando entender direitos em uma questão familiar neste caso.","label":"FAMILIA","domain":"legal"}
+{"text":"Pode me ajudar a entender direitos em uma questão familiar e preciso de orientação.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso de orientação para entender direitos em uma questão familiar porque não conheço o procedimento.","label":"FAMILIA","domain":"legal"}
+{"text":"Queria entender como entender direitos em uma questão familiar agora.","label":"FAMILIA","domain":"legal"}
+{"text":"Como faço para entender direitos em uma questão familiar antes de tomar uma decisão.","label":"FAMILIA","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender direitos em uma questão familiar sem cometer um erro.","label":"FAMILIA","domain":"legal"}
+{"text":"Preciso reclamar de um produto com defeito?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero reclamar de um produto com defeito e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de reclamar de um produto com defeito o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para reclamar de um produto com defeito e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando reclamar de um produto com defeito neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a reclamar de um produto com defeito e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para reclamar de um produto com defeito porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como reclamar de um produto com defeito agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para reclamar de um produto com defeito antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso reclamar de um produto com defeito sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso contestar uma cobrança indevida?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero contestar uma cobrança indevida e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de contestar uma cobrança indevida o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para contestar uma cobrança indevida e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando contestar uma cobrança indevida neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a contestar uma cobrança indevida e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para contestar uma cobrança indevida porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como contestar uma cobrança indevida agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para contestar uma cobrança indevida antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso contestar uma cobrança indevida sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso resolver uma compra não entregue?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero resolver uma compra não entregue e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de resolver uma compra não entregue o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para resolver uma compra não entregue e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando resolver uma compra não entregue neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a resolver uma compra não entregue e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para resolver uma compra não entregue porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como resolver uma compra não entregue agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para resolver uma compra não entregue antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso resolver uma compra não entregue sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso pedir reembolso de uma compra?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero pedir reembolso de uma compra e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de pedir reembolso de uma compra o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para pedir reembolso de uma compra e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando pedir reembolso de uma compra neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a pedir reembolso de uma compra e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para pedir reembolso de uma compra porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como pedir reembolso de uma compra agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para pedir reembolso de uma compra antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso pedir reembolso de uma compra sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso contestar uma negativação?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero contestar uma negativação e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de contestar uma negativação o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para contestar uma negativação e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando contestar uma negativação neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a contestar uma negativação e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para contestar uma negativação porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como contestar uma negativação agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para contestar uma negativação antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso contestar uma negativação sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso cancelar uma compra pela internet?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero cancelar uma compra pela internet e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de cancelar uma compra pela internet o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para cancelar uma compra pela internet e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando cancelar uma compra pela internet neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a cancelar uma compra pela internet e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para cancelar uma compra pela internet porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como cancelar uma compra pela internet agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para cancelar uma compra pela internet antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso cancelar uma compra pela internet sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso reclamar de um serviço mal prestado?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero reclamar de um serviço mal prestado e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de reclamar de um serviço mal prestado o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para reclamar de um serviço mal prestado e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando reclamar de um serviço mal prestado neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a reclamar de um serviço mal prestado e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para reclamar de um serviço mal prestado porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como reclamar de um serviço mal prestado agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para reclamar de um serviço mal prestado antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso reclamar de um serviço mal prestado sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso questionar uma cobrança recorrente não autorizada?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero questionar uma cobrança recorrente não autorizada e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de questionar uma cobrança recorrente não autorizada o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para questionar uma cobrança recorrente não autorizada e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando questionar uma cobrança recorrente não autorizada neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a questionar uma cobrança recorrente não autorizada e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para questionar uma cobrança recorrente não autorizada porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como questionar uma cobrança recorrente não autorizada agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para questionar uma cobrança recorrente não autorizada antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso questionar uma cobrança recorrente não autorizada sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso entender meus direitos em uma compra online?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero entender meus direitos em uma compra online e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de entender meus direitos em uma compra online o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para entender meus direitos em uma compra online e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando entender meus direitos em uma compra online neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a entender meus direitos em uma compra online e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para entender meus direitos em uma compra online porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como entender meus direitos em uma compra online agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para entender meus direitos em uma compra online antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender meus direitos em uma compra online sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso resolver um problema que a empresa não solucionou?","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Quero resolver um problema que a empresa não solucionou e não sei como proceder.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Gostaria de resolver um problema que a empresa não solucionou o quanto antes.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho dúvida para resolver um problema que a empresa não solucionou e quero saber meus direitos.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Estou tentando resolver um problema que a empresa não solucionou neste caso.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Pode me ajudar a resolver um problema que a empresa não solucionou e preciso de orientação.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso de orientação para resolver um problema que a empresa não solucionou porque não conheço o procedimento.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Queria entender como resolver um problema que a empresa não solucionou agora.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Como faço para resolver um problema que a empresa não solucionou antes de tomar uma decisão.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Tenho uma situação em que preciso resolver um problema que a empresa não solucionou sem cometer um erro.","label":"CONSUMIDOR","domain":"legal"}
+{"text":"Preciso revisar um acordo entre sócios?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero revisar um acordo entre sócios e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de revisar um acordo entre sócios o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para revisar um acordo entre sócios e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando revisar um acordo entre sócios neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a revisar um acordo entre sócios e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para revisar um acordo entre sócios porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como revisar um acordo entre sócios agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para revisar um acordo entre sócios antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso revisar um acordo entre sócios sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso formalizar a entrada de um sócio?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero formalizar a entrada de um sócio e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de formalizar a entrada de um sócio o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para formalizar a entrada de um sócio e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando formalizar a entrada de um sócio neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a formalizar a entrada de um sócio e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para formalizar a entrada de um sócio porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como formalizar a entrada de um sócio agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para formalizar a entrada de um sócio antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso formalizar a entrada de um sócio sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso entender a saída de um sócio?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero entender a saída de um sócio e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de entender a saída de um sócio o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para entender a saída de um sócio e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando entender a saída de um sócio neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a entender a saída de um sócio e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para entender a saída de um sócio porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como entender a saída de um sócio agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para entender a saída de um sócio antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender a saída de um sócio sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso alterar o contrato social?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero alterar o contrato social e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de alterar o contrato social o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para alterar o contrato social e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando alterar o contrato social neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a alterar o contrato social e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para alterar o contrato social porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como alterar o contrato social agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para alterar o contrato social antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso alterar o contrato social sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso definir regras de governança?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero definir regras de governança e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de definir regras de governança o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para definir regras de governança e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando definir regras de governança neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a definir regras de governança e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para definir regras de governança porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como definir regras de governança agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para definir regras de governança antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso definir regras de governança sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso resolver um conflito societário?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero resolver um conflito societário e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de resolver um conflito societário o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para resolver um conflito societário e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando resolver um conflito societário neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a resolver um conflito societário e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para resolver um conflito societário porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como resolver um conflito societário agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para resolver um conflito societário antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso resolver um conflito societário sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso proteger informações confidenciais da empresa?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero proteger informações confidenciais da empresa e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de proteger informações confidenciais da empresa o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para proteger informações confidenciais da empresa e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando proteger informações confidenciais da empresa neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a proteger informações confidenciais da empresa e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para proteger informações confidenciais da empresa porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como proteger informações confidenciais da empresa agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para proteger informações confidenciais da empresa antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso proteger informações confidenciais da empresa sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso organizar a distribuição de lucros?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero organizar a distribuição de lucros e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de organizar a distribuição de lucros o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para organizar a distribuição de lucros e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando organizar a distribuição de lucros neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a organizar a distribuição de lucros e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para organizar a distribuição de lucros porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como organizar a distribuição de lucros agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para organizar a distribuição de lucros antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso organizar a distribuição de lucros sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso encerrar uma sociedade?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero encerrar uma sociedade e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de encerrar uma sociedade o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para encerrar uma sociedade e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando encerrar uma sociedade neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a encerrar uma sociedade e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para encerrar uma sociedade porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como encerrar uma sociedade agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para encerrar uma sociedade antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso encerrar uma sociedade sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso estruturar juridicamente uma empresa?","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Quero estruturar juridicamente uma empresa e não sei como proceder.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Gostaria de estruturar juridicamente uma empresa o quanto antes.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho dúvida para estruturar juridicamente uma empresa e quero saber meus direitos.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Estou tentando estruturar juridicamente uma empresa neste caso.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Pode me ajudar a estruturar juridicamente uma empresa e preciso de orientação.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso de orientação para estruturar juridicamente uma empresa porque não conheço o procedimento.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Queria entender como estruturar juridicamente uma empresa agora.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Como faço para estruturar juridicamente uma empresa antes de tomar uma decisão.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso estruturar juridicamente uma empresa sem cometer um erro.","label":"EMPRESARIAL","domain":"legal"}
+{"text":"Preciso verificar quanto falta para aposentadoria?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero verificar quanto falta para aposentadoria e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de verificar quanto falta para aposentadoria o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para verificar quanto falta para aposentadoria e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando verificar quanto falta para aposentadoria neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a verificar quanto falta para aposentadoria e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para verificar quanto falta para aposentadoria porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como verificar quanto falta para aposentadoria agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para verificar quanto falta para aposentadoria antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar quanto falta para aposentadoria sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso entender uma negativa do INSS?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero entender uma negativa do INSS e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de entender uma negativa do INSS o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para entender uma negativa do INSS e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando entender uma negativa do INSS neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a entender uma negativa do INSS e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para entender uma negativa do INSS porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como entender uma negativa do INSS agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para entender uma negativa do INSS antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender uma negativa do INSS sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso consultar meu tempo de contribuição?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero consultar meu tempo de contribuição e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de consultar meu tempo de contribuição o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para consultar meu tempo de contribuição e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando consultar meu tempo de contribuição neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a consultar meu tempo de contribuição e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para consultar meu tempo de contribuição porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como consultar meu tempo de contribuição agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para consultar meu tempo de contribuição antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso consultar meu tempo de contribuição sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso revisar o cálculo do benefício?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero revisar o cálculo do benefício e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de revisar o cálculo do benefício o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para revisar o cálculo do benefício e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando revisar o cálculo do benefício neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a revisar o cálculo do benefício e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para revisar o cálculo do benefício porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como revisar o cálculo do benefício agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para revisar o cálculo do benefício antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso revisar o cálculo do benefício sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso recorrer de uma decisão previdenciária?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero recorrer de uma decisão previdenciária e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de recorrer de uma decisão previdenciária o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para recorrer de uma decisão previdenciária e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando recorrer de uma decisão previdenciária neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a recorrer de uma decisão previdenciária e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para recorrer de uma decisão previdenciária porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como recorrer de uma decisão previdenciária agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para recorrer de uma decisão previdenciária antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso recorrer de uma decisão previdenciária sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso saber se tenho direito a auxílio por incapacidade?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero saber se tenho direito a auxílio por incapacidade e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de saber se tenho direito a auxílio por incapacidade o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para saber se tenho direito a auxílio por incapacidade e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando saber se tenho direito a auxílio por incapacidade neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a saber se tenho direito a auxílio por incapacidade e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para saber se tenho direito a auxílio por incapacidade porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como saber se tenho direito a auxílio por incapacidade agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para saber se tenho direito a auxílio por incapacidade antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber se tenho direito a auxílio por incapacidade sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso entender a suspensão de um benefício?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero entender a suspensão de um benefício e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de entender a suspensão de um benefício o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para entender a suspensão de um benefício e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando entender a suspensão de um benefício neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a entender a suspensão de um benefício e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para entender a suspensão de um benefício porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como entender a suspensão de um benefício agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para entender a suspensão de um benefício antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender a suspensão de um benefício sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso verificar direito à pensão por morte?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero verificar direito à pensão por morte e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de verificar direito à pensão por morte o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para verificar direito à pensão por morte e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando verificar direito à pensão por morte neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a verificar direito à pensão por morte e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para verificar direito à pensão por morte porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como verificar direito à pensão por morte agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para verificar direito à pensão por morte antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso verificar direito à pensão por morte sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso entender uma decisão administrativa do INSS?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero entender uma decisão administrativa do INSS e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de entender uma decisão administrativa do INSS o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para entender uma decisão administrativa do INSS e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando entender uma decisão administrativa do INSS neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a entender uma decisão administrativa do INSS e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para entender uma decisão administrativa do INSS porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como entender uma decisão administrativa do INSS agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para entender uma decisão administrativa do INSS antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender uma decisão administrativa do INSS sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso saber qual benefício previdenciário posso solicitar?","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Quero saber qual benefício previdenciário posso solicitar e não sei como proceder.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Gostaria de saber qual benefício previdenciário posso solicitar o quanto antes.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho dúvida para saber qual benefício previdenciário posso solicitar e quero saber meus direitos.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Estou tentando saber qual benefício previdenciário posso solicitar neste caso.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Pode me ajudar a saber qual benefício previdenciário posso solicitar e preciso de orientação.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso de orientação para saber qual benefício previdenciário posso solicitar porque não conheço o procedimento.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Queria entender como saber qual benefício previdenciário posso solicitar agora.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Como faço para saber qual benefício previdenciário posso solicitar antes de tomar uma decisão.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber qual benefício previdenciário posso solicitar sem cometer um erro.","label":"PREVIDENCIARIO","domain":"legal"}
+{"text":"Preciso entender meus direitos em uma investigação?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero entender meus direitos em uma investigação e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de entender meus direitos em uma investigação o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para entender meus direitos em uma investigação e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando entender meus direitos em uma investigação neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a entender meus direitos em uma investigação e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para entender meus direitos em uma investigação porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como entender meus direitos em uma investigação agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para entender meus direitos em uma investigação antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender meus direitos em uma investigação sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso saber o que fazer após uma intimação policial?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero saber o que fazer após uma intimação policial e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de saber o que fazer após uma intimação policial o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para saber o que fazer após uma intimação policial e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando saber o que fazer após uma intimação policial neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a saber o que fazer após uma intimação policial e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para saber o que fazer após uma intimação policial porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como saber o que fazer após uma intimação policial agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para saber o que fazer após uma intimação policial antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber o que fazer após uma intimação policial sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso entender meus direitos em um interrogatório?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero entender meus direitos em um interrogatório e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de entender meus direitos em um interrogatório o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para entender meus direitos em um interrogatório e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando entender meus direitos em um interrogatório neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a entender meus direitos em um interrogatório e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para entender meus direitos em um interrogatório porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como entender meus direitos em um interrogatório agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para entender meus direitos em um interrogatório antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender meus direitos em um interrogatório sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso acompanhar um inquérito policial?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero acompanhar um inquérito policial e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de acompanhar um inquérito policial o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para acompanhar um inquérito policial e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando acompanhar um inquérito policial neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a acompanhar um inquérito policial e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para acompanhar um inquérito policial porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como acompanhar um inquérito policial agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para acompanhar um inquérito policial antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso acompanhar um inquérito policial sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso preparar uma defesa criminal?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero preparar uma defesa criminal e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de preparar uma defesa criminal o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para preparar uma defesa criminal e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando preparar uma defesa criminal neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a preparar uma defesa criminal e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para preparar uma defesa criminal porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como preparar uma defesa criminal agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para preparar uma defesa criminal antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso preparar uma defesa criminal sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso entender o que acontece após um depoimento?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero entender o que acontece após um depoimento e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de entender o que acontece após um depoimento o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para entender o que acontece após um depoimento e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando entender o que acontece após um depoimento neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a entender o que acontece após um depoimento e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para entender o que acontece após um depoimento porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como entender o que acontece após um depoimento agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para entender o que acontece após um depoimento antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender o que acontece após um depoimento sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso acompanhar uma investigação em andamento?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero acompanhar uma investigação em andamento e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de acompanhar uma investigação em andamento o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para acompanhar uma investigação em andamento e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando acompanhar uma investigação em andamento neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a acompanhar uma investigação em andamento e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para acompanhar uma investigação em andamento porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como acompanhar uma investigação em andamento agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para acompanhar uma investigação em andamento antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso acompanhar uma investigação em andamento sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso entender as opções de defesa diante de uma acusação?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero entender as opções de defesa diante de uma acusação e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de entender as opções de defesa diante de uma acusação o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para entender as opções de defesa diante de uma acusação e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando entender as opções de defesa diante de uma acusação neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a entender as opções de defesa diante de uma acusação e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para entender as opções de defesa diante de uma acusação porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como entender as opções de defesa diante de uma acusação agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para entender as opções de defesa diante de uma acusação antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender as opções de defesa diante de uma acusação sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso saber meus direitos depois de uma prisão?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero saber meus direitos depois de uma prisão e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de saber meus direitos depois de uma prisão o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para saber meus direitos depois de uma prisão e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando saber meus direitos depois de uma prisão neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a saber meus direitos depois de uma prisão e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para saber meus direitos depois de uma prisão porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como saber meus direitos depois de uma prisão agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para saber meus direitos depois de uma prisão antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso saber meus direitos depois de uma prisão sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso entender uma ocorrência que virou investigação?","label":"CRIMINAL","domain":"legal"}
+{"text":"Quero entender uma ocorrência que virou investigação e não sei como proceder.","label":"CRIMINAL","domain":"legal"}
+{"text":"Gostaria de entender uma ocorrência que virou investigação o quanto antes.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho dúvida para entender uma ocorrência que virou investigação e quero saber meus direitos.","label":"CRIMINAL","domain":"legal"}
+{"text":"Estou tentando entender uma ocorrência que virou investigação neste caso.","label":"CRIMINAL","domain":"legal"}
+{"text":"Pode me ajudar a entender uma ocorrência que virou investigação e preciso de orientação.","label":"CRIMINAL","domain":"legal"}
+{"text":"Preciso de orientação para entender uma ocorrência que virou investigação porque não conheço o procedimento.","label":"CRIMINAL","domain":"legal"}
+{"text":"Queria entender como entender uma ocorrência que virou investigação agora.","label":"CRIMINAL","domain":"legal"}
+{"text":"Como faço para entender uma ocorrência que virou investigação antes de tomar uma decisão.","label":"CRIMINAL","domain":"legal"}
+{"text":"Tenho uma situação em que preciso entender uma ocorrência que virou investigação sem cometer um erro.","label":"CRIMINAL","domain":"legal"}
