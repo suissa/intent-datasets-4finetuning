@@ -1,0 +1,156 @@
+{"text":"Quero um corte para esta semana por favor.","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para esta semana se possível?","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para esta semana, para mim.","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para esta semana sem complicação!","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para a próxima semana por favor.","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para a próxima semana se possível?","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para a próxima semana, para mim.","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para a próxima semana sem complicação!","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para amanhã por favor.","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para amanhã se possível?","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para amanhã, para mim.","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para amanhã sem complicação!","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero um corte para sábado por favor.","label":"AGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de hoje por favor.","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de hoje se possível?","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de hoje, sem remarcar agora.","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de hoje porque não vou conseguir ir!","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de amanhã por favor.","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de amanhã se possível?","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de amanhã, sem remarcar agora.","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de amanhã porque não vou conseguir ir!","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário desta semana por favor.","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário desta semana se possível?","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário desta semana, sem remarcar agora.","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário desta semana porque não vou conseguir ir!","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero cancelar meu horário de sábado por favor.","label":"CANCELAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para amanhã por favor.","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para amanhã se tiver disponibilidade?","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para amanhã, sem cancelar o serviço.","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para amanhã porque surgiu um compromisso!","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para outro dia por favor.","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para outro dia se tiver disponibilidade?","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para outro dia, sem cancelar o serviço.","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para outro dia porque surgiu um compromisso!","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para a próxima semana por favor.","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para a próxima semana se tiver disponibilidade?","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para a próxima semana, sem cancelar o serviço.","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para a próxima semana porque surgiu um compromisso!","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Quero remarcar meu horário para mais tarde por favor.","label":"REAGENDAMENTO","domain":"hairdresser"}
+{"text":"Tem horário para corte hoje por favor.","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte hoje para uma pessoa?","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte hoje, para mim.","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte hoje sem preferência de profissional!","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte amanhã por favor.","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte amanhã para uma pessoa?","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte amanhã, para mim.","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte amanhã sem preferência de profissional!","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte nesta semana por favor.","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte nesta semana para uma pessoa?","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte nesta semana, para mim.","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte nesta semana sem preferência de profissional!","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Tem horário para corte no sábado por favor.","label":"DISPONIBILIDADE","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo no salão por favor.","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo no salão e como funciona?","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo no salão, e qual é a duração.","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo no salão e se precisa agendar!","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo com um profissional por favor.","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo com um profissional e como funciona?","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo com um profissional, e qual é a duração.","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo com um profissional e se precisa agendar!","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo para cabelo curto por favor.","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo para cabelo curto e como funciona?","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo para cabelo curto, e qual é a duração.","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo para cabelo curto e se precisa agendar!","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quero saber sobre corte de cabelo para cabelo comprido por favor.","label":"SERVICO","domain":"hairdresser"}
+{"text":"Quanto custa um corte no salão por favor.","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte no salão hoje?","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte no salão, para mim.","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte no salão em média!","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte para cabelo curto por favor.","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte para cabelo curto hoje?","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte para cabelo curto, para mim.","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte para cabelo curto em média!","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte para cabelo comprido por favor.","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte para cabelo comprido hoje?","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte para cabelo comprido, para mim.","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte para cabelo comprido em média!","label":"PRECO","domain":"hairdresser"}
+{"text":"Quanto custa um corte com profissional sênior por favor.","label":"PRECO","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro no salão por favor.","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro no salão se houver disponibilidade?","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro no salão, se possível.","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro no salão antes de agendar!","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro nesta semana por favor.","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro nesta semana se houver disponibilidade?","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro nesta semana, se possível.","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro nesta semana antes de agendar!","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro no sábado por favor.","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro no sábado se houver disponibilidade?","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro no sábado, se possível.","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro no sábado antes de agendar!","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero marcar com um barbeiro pela manhã por favor.","label":"PROFISSIONAL","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão hoje por favor.","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão hoje antes de ir?","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão hoje, para eu me organizar.","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão hoje se estiver aberto!","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão amanhã por favor.","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão amanhã antes de ir?","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão amanhã, para eu me organizar.","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão amanhã se estiver aberto!","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão nesta semana por favor.","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão nesta semana antes de ir?","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão nesta semana, para eu me organizar.","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão nesta semana se estiver aberto!","label":"HORARIO","domain":"hairdresser"}
+{"text":"Quero saber o horário do salão no feriado por favor.","label":"HORARIO","domain":"hairdresser"}
+{"text":"Onde fica o salão no centro por favor.","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão no centro se possível?","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão no centro, para eu me localizar.","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão no centro e qual é o ponto de referência!","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão perto do centro por favor.","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão perto do centro se possível?","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão perto do centro, para eu me localizar.","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão perto do centro e qual é o ponto de referência!","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão na cidade por favor.","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão na cidade se possível?","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão na cidade, para eu me localizar.","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão na cidade e qual é o ponto de referência!","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Onde fica o salão para eu ir hoje por favor.","label":"ENDERECO","domain":"hairdresser"}
+{"text":"Quero corte mais curto no meu próximo atendimento por favor.","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto no meu próximo atendimento se possível?","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto no meu próximo atendimento, sem trocar a preferência.","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto no meu próximo atendimento se vocês puderem!","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto quando eu agendar por favor.","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto quando eu agendar se possível?","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto quando eu agendar, sem trocar a preferência.","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto quando eu agendar se vocês puderem!","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto para o próximo corte por favor.","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto para o próximo corte se possível?","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto para o próximo corte, sem trocar a preferência.","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto para o próximo corte se vocês puderem!","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero corte mais curto para a próxima visita por favor.","label":"PREFERENCIA","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte em casa por favor.","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte em casa com segurança?","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte em casa, por mais tempo.","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte em casa sem gastar muito!","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte depois do atendimento por favor.","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte depois do atendimento com segurança?","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte depois do atendimento, por mais tempo.","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte depois do atendimento sem gastar muito!","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte entre os cortes por favor.","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte entre os cortes com segurança?","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte entre os cortes, por mais tempo.","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte entre os cortes sem gastar muito!","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber como cuidar meu corte durante a semana por favor.","label":"CUIDADOS","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com Pix por favor.","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com Pix hoje?","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com Pix, no meu próximo atendimento.","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com Pix sem taxa adicional!","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com cartão por favor.","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com cartão hoje?","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com cartão, no meu próximo atendimento.","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com cartão sem taxa adicional!","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com dinheiro por favor.","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com dinheiro hoje?","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com dinheiro, no meu próximo atendimento.","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte com dinheiro sem taxa adicional!","label":"PAGAMENTO","domain":"hairdresser"}
+{"text":"Quero saber se posso pagar o corte na hora por favor.","label":"PAGAMENTO","domain":"hairdresser"}
