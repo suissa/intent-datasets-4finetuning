@@ -1,0 +1,156 @@
+{"text":"Quais produtos de roupa vocês vendem?","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Estou procurando opções de roupas para uso diário.","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Vocês têm calçados disponíveis no catálogo?","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Quero conhecer a coleção de roupas.","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Vocês trabalham com tênis e sapatos?","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Quero ver opções de vestuário.","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Há novidades em roupas nesta coleção?","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Quais tipos de calçados vocês oferecem?","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Estou buscando uma peça para uso casual.","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Quero consultar os produtos disponíveis.","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Vocês vendem peças para diferentes ocasiões?","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Quero conhecer a linha de calçados.","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Há variedade de roupas na loja?","label":"PRODUTO","domain":"clothing_footwear"}
+{"text":"Existe camiseta no tamanho M?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Quero saber quais tamanhos existem para a jaqueta.","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Vocês têm tênis na numeração 40?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Preciso de uma calça no tamanho G.","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Qual numeração está disponível para o sapato?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Quero encontrar uma bota no tamanho 39.","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Até qual tamanho existe para esse modelo?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"A grade inclui tamanho GG?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Posso pedir a sandália na numeração 37?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Qual tamanho devo selecionar para a camiseta?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Vocês trabalham com numeração 42 para esse tênis?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Quero consultar os tamanhos disponíveis.","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Existe tamanho 44 para esse sapato?","label":"TAMANHO","domain":"clothing_footwear"}
+{"text":"Tem camiseta disponível hoje?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Vocês têm tênis disponível para compra?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Ainda há uma jaqueta disponível?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Quero verificar a disponibilidade da bota.","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Existe sandália disponível na loja?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Consigo encontrar esse sapato hoje?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Há calça disponível para retirada?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Vocês conseguem confirmar a disponibilidade do produto?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Ainda consigo comprar esse modelo?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Tem alguma unidade disponível?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Existe disponibilidade para compra online?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Posso reservar o produto se estiver disponível?","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Quero saber se esse item está disponível.","label":"DISPONIBILIDADE","domain":"clothing_footwear"}
+{"text":"Quanto custa essa camiseta?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Qual é o preço do tênis?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Quero saber o valor da jaqueta.","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Quanto está essa calça?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Podem informar o preço da bota?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Qual valor devo pagar pelo sapato?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Quanto fica essa sandália?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Quero consultar o preço do vestido.","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Qual é o preço atual desse modelo?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Quanto custa o produto?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Existe desconto no preço da peça?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Podem confirmar o valor da compra?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Qual preço vocês praticam para esse tênis?","label":"PRECO","domain":"clothing_footwear"}
+{"text":"Quais modelos de tênis vocês têm?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Quero ver modelos de botas.","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Que modelos de sapatos estão disponíveis?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Vocês têm outro modelo de sandália?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Quero comparar modelos de tênis.","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Existe um modelo mais casual?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Que estilo de sapato vocês oferecem?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Quais versões estão no catálogo?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Quero conhecer os modelos disponíveis.","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Há modelos esportivos de tênis?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Vocês trabalham com modelo social?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Quero encontrar um modelo elegante.","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Quais estilos de calçado estão disponíveis?","label":"MODELO","domain":"clothing_footwear"}
+{"text":"Quantas unidades de tênis vocês têm?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Ainda existe estoque desse sapato?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Há estoque da bota?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Vocês têm mais unidades dessa sandália?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Preciso saber o estoque do produto.","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Quantas unidades restam?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Ainda há unidades disponíveis no estoque?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Vocês conseguem consultar o estoque?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Tem mais de uma unidade desse modelo?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Quero conferir a quantidade disponível.","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"O estoque está baixo?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Existe estoque disponível para compra?","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Quero saber quantas unidades sobraram.","label":"ESTOQUE","domain":"clothing_footwear"}
+{"text":"Quero comprar esse tênis.","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Como faço para comprar a bota?","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Posso comprar o sapato agora?","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Quero finalizar a compra da sandália.","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Gostaria de adquirir esse modelo.","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Como compro o produto?","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Quero fazer um pedido de tênis.","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Posso reservar o sapato para comprar?","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Quero levar essa bota.","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Quero iniciar a compra.","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Posso encomendar esse modelo?","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Quero adicionar o produto ao pedido.","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"É possível comprar pelo site?","label":"COMPRA","domain":"clothing_footwear"}
+{"text":"Quero trocar esse tênis.","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Como faço a troca do sapato?","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Posso trocar a bota?","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Preciso trocar o produto por outro tamanho.","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Quero trocar o modelo por outra opção.","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Qual é o prazo para troca?","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Onde solicito a troca?","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Como funciona a troca da sandália?","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Posso trocar se não servir?","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Quero saber as condições de troca.","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Posso trocar por outra cor?","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Preciso trocar porque não serviu.","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Quero substituir o produto por outro modelo.","label":"TROCA","domain":"clothing_footwear"}
+{"text":"Quero devolver esse tênis.","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Como faço a devolução do sapato?","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Posso devolver a bota?","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Preciso solicitar a devolução do produto.","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Qual é o prazo para devolver a compra?","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Onde peço a devolução?","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Como funciona a devolução da sandália?","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Quero cancelar a compra e devolver o produto.","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Posso devolver depois de receber?","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Quero saber as condições de devolução.","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Preciso iniciar uma devolução.","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Quero retornar o produto à loja.","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Posso solicitar devolução pela internet?","label":"DEVOLUCAO","domain":"clothing_footwear"}
+{"text":"Posso pagar o tênis com Pix?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Vocês aceitam cartão para comprar a bota?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"O pagamento do sapato pode ser por débito?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Consigo pagar a sandália usando crédito?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Quais formas de pagamento existem?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Vocês aceitam Pix?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Como posso pagar a compra?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Posso usar cartão na compra?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Existe opção de pagamento parcelado?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Quero saber como pagar o produto.","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Vocês permitem pagamento em dinheiro?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"O pagamento pode ser parcelado?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Quais meios de pagamento vocês aceitam?","label":"PAGAMENTO","domain":"clothing_footwear"}
+{"text":"Vocês entregam esse tênis?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Quanto tempo leva a entrega da bota?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Qual é o prazo de entrega do sapato?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Vocês fazem entrega para minha cidade?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Quanto custa entregar o produto?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Posso receber a sandália em casa?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Como funciona a entrega?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Quero acompanhar o envio da compra.","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Quando o pedido será entregue?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Vocês enviam para outra cidade?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Quero consultar o prazo de entrega.","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Existe entrega disponível para meu endereço?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Como acompanho o envio?","label":"ENTREGA","domain":"clothing_footwear"}
+{"text":"Qual é o endereço da loja?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Onde fica a loja?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Como chego ao estabelecimento?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Qual rua fica a loja?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Qual bairro fica a loja?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Podem informar a localização?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Onde posso retirar meu pedido?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Qual é o local da loja?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Quero saber onde fica o ponto de retirada.","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Qual referência ajuda a encontrar a loja?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Como chegar ao endereço da loja?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Qual localização devo usar no mapa?","label":"ENDERECO","domain":"clothing_footwear"}
+{"text":"Podem informar onde fica a loja?","label":"ENDERECO","domain":"clothing_footwear"}
