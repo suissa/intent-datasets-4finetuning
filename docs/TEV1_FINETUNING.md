@@ -39,7 +39,7 @@ Hardware alvo inicial:
 - gradient checkpointing
 - fp16
 - 1 epoch
-- max length=768
+- max length=512
 - learning rate=5e-5
 
 Executar na raiz do repo:
