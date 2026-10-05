@@ -1230,8 +1230,6 @@
 {"text":"Queria marcar um horário com o barbeiro para a manhã, para mim.","label":"AGENDAMENTO","domain":"hairdresser"}
 {"text":"Queria marcar um horário com o barbeiro para a manhã sem complicação!","label":"AGENDAMENTO","domain":"hairdresser"}
 {"text":"Queria marcar um horário com o barbeiro para o fim do dia por favor.","label":"AGENDAMENTO","domain":"hairdresser"}
-{"text":"Queria marcar um horário com o barbeiro para o fim do dia se possível?","label":"AGENDAMENTO","domain":"hairdresser"}
-{"text":"Queria marcar um horário com o barbeiro para o fim do dia, para mim.","label":"AGENDAMENTO","domain":"hairdresser"}
 {"text":"Quero cancelar meu horário de sábado se possível?","label":"CANCELAMENTO","domain":"hairdresser"}
 {"text":"Quero cancelar meu horário de sábado, sem remarcar agora.","label":"CANCELAMENTO","domain":"hairdresser"}
 {"text":"Quero cancelar meu horário de sábado porque não vou conseguir ir!","label":"CANCELAMENTO","domain":"hairdresser"}
