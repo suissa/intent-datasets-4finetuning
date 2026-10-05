@@ -1,0 +1,9 @@
+# Tev1 legal local fine-tuning
+torch
+transformers>=5.0.0
+peft>=0.18.0
+accelerate>=1.10.0
+safetensors>=0.6.0
+sentencepiece
+pillow
+datasets>=4.0.0
