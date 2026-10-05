@@ -28,7 +28,7 @@ Write-Host "[3/4] Preparing Tev1 instruction dataset..." -ForegroundColor Yellow
 & $Python (Join-Path $PSScriptRoot "tev_prepare.py")
 
 $epochs = if ($env:TEV_EPOCHS) { [double]$env:TEV_EPOCHS } else { 1.0 }
-$maxLength = if ($env:TEV_MAX_LENGTH) { [int]$env:TEV_MAX_LENGTH } else { 768 }
+$maxLength = if ($env:TEV_MAX_LENGTH) { [int]$env:TEV_MAX_LENGTH } else { 512 }
 $gradAccum = if ($env:TEV_GRAD_ACCUM) { [int]$env:TEV_GRAD_ACCUM } else { 16 }
 $batchSize = if ($env:TEV_BATCH_SIZE) { [int]$env:TEV_BATCH_SIZE } else { 1 }
 $lr = if ($env:TEV_LR) { [double]$env:TEV_LR } else { 5e-5 }
