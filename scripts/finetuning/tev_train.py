@@ -94,7 +94,7 @@ def main():
     ap.add_argument("--epochs", type=float, default=1.0)
     ap.add_argument("--batch-size", type=int, default=1)
     ap.add_argument("--grad-accum", type=int, default=16)
-    ap.add_argument("--max-length", type=int, default=768)
+    ap.add_argument("--max-length", type=int, default=512)
     ap.add_argument("--learning-rate", type=float, default=5e-5)
     ap.add_argument("--warmup-ratio", type=float, default=0.03)
     ap.add_argument("--logging-steps", type=int, default=10)
@@ -136,6 +136,7 @@ def main():
         lora_alpha=16,
         lora_dropout=0.0,
         target_modules="all-linear",
+        exclude_modules=["visual"],
         bias="none",
         task_type=TaskType.CAUSAL_LM,
     )
