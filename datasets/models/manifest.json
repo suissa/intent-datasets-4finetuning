@@ -1,0 +1,26 @@
+{
+  "seed": 0,
+  "split": "80/20 of canonical train; evaluation remains frozen",
+  "counts": {
+    "train": 14806,
+    "train_split": 11845,
+    "calibration": 2961,
+    "eval": 132
+  },
+  "labels": [
+    "CONTRATO",
+    "PROCESSO",
+    "PETICAO",
+    "PRAZO",
+    "AUDIENCIA",
+    "CONSULTA_JURIDICA",
+    "TRABALHISTA",
+    "FAMILIA",
+    "CONSUMIDOR",
+    "EMPRESARIAL",
+    "PREVIDENCIARIO",
+    "CRIMINAL"
+  ],
+  "source_train_sha256_expected": "cbc70db9bd4c4a3acfbeb9e7cf0aa358e0956790",
+  "note": "Model schemas differ; source texts, labels and frozen eval examples are shared."
+}

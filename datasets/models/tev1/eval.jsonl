@@ -1,0 +1,132 @@
+{"text": "Mensagem do usuário: Quero revisar um contrato antes de assinar. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Quero analisar um contrato de prestação de serviços. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Quero saber como está meu processo. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Quero verificar se houve uma decisão recente. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Quero preparar uma petição para meu processo. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Quero preparar uma petição de juntada. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Quero saber qual é o prazo para recorrer. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Quero verificar se o prazo já venceu. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Quero entender o que fazer antes de uma audiência. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Quero saber se posso participar por videoconferência. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Quero saber quais são meus direitos neste caso. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Quero obter uma análise jurídica da minha situação. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Quero saber se tenho direito às férias não pagas. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Quero cobrar adicional noturno. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Quero saber como funciona um divórcio. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Quero fazer um acordo de divórcio. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Quero resolver um produto que veio com defeito. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Quero cancelar uma compra pela internet. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Quero abrir uma empresa com segurança jurídica. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Quero entender a dissolução de uma empresa. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Quero saber se tenho direito à aposentadoria. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Quero entender por que meu benefício foi suspenso. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Quero defender-me de uma acusação criminal. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Quero entender uma investigação criminal. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Quero conferir uma cláusula de rescisão antes de assinar. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Preciso entender as condições de um contrato comercial. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Quero saber se posso cancelar este acordo contratual. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre uma obrigação prevista no contrato. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Preciso verificar se existe multa por encerramento antecipado. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Quero comparar os riscos de duas cláusulas contratuais. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Quero revisar os termos de um contrato de prestação de serviços. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Preciso saber se um contrato pode ser renovado automaticamente. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Quero entender as consequências de não cumprir o contrato. [Domínio: legal]", "label": "A"}
+{"text": "Mensagem do usuário: Quero consultar a movimentação mais recente da ação. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Preciso descobrir em que etapa está meu processo judicial. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Quero saber se já existe sentença no meu processo. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Como verifico se meu processo foi arquivado? [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Preciso localizar informações sobre uma ação judicial. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Quero conferir se houve algum despacho novo. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Preciso acompanhar uma ação que está tramitando. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Quero entender o status atual do processo. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Preciso verificar se houve alguma decisão recentemente. [Domínio: legal]", "label": "B"}
+{"text": "Mensagem do usuário: Quero saber qual petição devo apresentar agora. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Preciso elaborar uma manifestação para o processo. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Quero preparar uma contestação por escrito. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Preciso protocolar uma petição com novos documentos. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Quero revisar uma peça antes de enviá-la ao tribunal. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre como fazer uma petição intermediária. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Preciso responder a uma manifestação da outra parte. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Quero preparar uma réplica para o processo. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Preciso saber qual peça processual é adequada ao meu caso. [Domínio: legal]", "label": "C"}
+{"text": "Mensagem do usuário: Quero calcular quantos dias tenho para recorrer. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Preciso saber a data limite de uma manifestação. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Quero confirmar se meu prazo processual ainda está aberto. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Quando termina o prazo indicado na intimação? [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Preciso entender como contar os dias do prazo. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Quero saber quando começa a contagem do prazo judicial. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Tenho dúvida se perdi o prazo para apresentar a defesa. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Qual é o prazo para responder a esta decisão? [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Preciso confirmar se o prazo considera dias úteis. [Domínio: legal]", "label": "D"}
+{"text": "Mensagem do usuário: Quero saber como funciona uma audiência de conciliação. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Preciso saber se minha presença na audiência é necessária. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Tenho uma audiência virtual e quero entender o procedimento. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Quero saber o que devo levar para a audiência. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Preciso entender o papel das testemunhas na audiência. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Quero saber se posso participar da audiência por videoconferência. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre o que pode acontecer durante a audiência. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Preciso me preparar para uma audiência judicial. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Quero saber quais pessoas devem comparecer à audiência. [Domínio: legal]", "label": "E"}
+{"text": "Mensagem do usuário: Quero entender meus direitos em uma situação jurídica. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Preciso saber quais medidas legais posso tomar. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Tenho uma dúvida sobre uma questão jurídica pessoal. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Quero avaliar se devo buscar uma solução judicial. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Preciso entender as possíveis consequências legais de um problema. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Quero saber qual caminho jurídico pode ser seguido. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Tenho uma situação e preciso de orientação sobre meus direitos. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Quero descobrir se meu caso pode gerar uma ação judicial. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Preciso de uma análise inicial sobre um problema jurídico. [Domínio: legal]", "label": "F"}
+{"text": "Mensagem do usuário: Quero saber se tenho direito ao adicional noturno. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Preciso cobrar salários que meu empregador não pagou. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre férias e décimo terceiro. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Quero entender meus direitos após uma demissão. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Preciso verificar se tenho direito a horas extras. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Meu FGTS não foi depositado e quero saber como agir. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Quero entender as regras do aviso prévio. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Tenho um problema com meu vínculo empregatício. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Preciso saber quais verbas rescisórias devo receber. [Domínio: legal]", "label": "G"}
+{"text": "Mensagem do usuário: Quero saber como iniciar um divórcio. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Preciso entender as regras da guarda compartilhada. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre o pagamento de pensão alimentícia. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Quero regularizar as visitas aos meus filhos. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Preciso entender como funciona a partilha de bens. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Quero saber como reconhecer uma união estável. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre alteração de guarda. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Preciso cobrar parcelas de pensão que estão atrasadas. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Quero entender meus direitos em uma questão de família. [Domínio: legal]", "label": "H"}
+{"text": "Mensagem do usuário: Quero reclamar de uma compra que não foi entregue. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Preciso contestar uma cobrança indevida da empresa. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Quero saber se posso pedir reembolso de uma compra. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Meu produto chegou com defeito e quero saber o que fazer. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Preciso resolver um problema com uma compra online. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Quero contestar uma negativação que considero indevida. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: A empresa não resolveu meu problema e preciso de orientação. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Quero saber meus direitos sobre cancelamento de compra. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Tenho uma cobrança que não autorizei e quero contestá-la. [Domínio: legal]", "label": "I"}
+{"text": "Mensagem do usuário: Quero elaborar regras para uma sociedade empresarial. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Preciso entender como retirar um sócio da empresa. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre um contrato social. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Quero formalizar a entrada de um novo sócio. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Preciso resolver um desacordo entre sócios. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Quero criar um acordo de confidencialidade empresarial. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre distribuição de lucros. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Preciso entender como funciona a dissolução da sociedade. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Quero organizar juridicamente a estrutura da minha empresa. [Domínio: legal]", "label": "J"}
+{"text": "Mensagem do usuário: Quero saber se já posso pedir aposentadoria. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Preciso entender uma negativa do INSS. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Quero consultar meu tempo de contribuição. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre o cálculo do meu benefício. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Preciso recorrer de uma decisão previdenciária. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Quero saber se tenho direito a auxílio por incapacidade. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Meu benefício foi suspenso e preciso entender o motivo. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Quero verificar se tenho direito à pensão por morte. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Preciso entender uma decisão administrativa sobre meu benefício. [Domínio: legal]", "label": "K"}
+{"text": "Mensagem do usuário: Quero saber meus direitos em uma investigação criminal. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Preciso entender uma intimação para prestar depoimento. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Tenho uma acusação criminal e preciso saber como me defender. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Quero entender o que acontece em um inquérito policial. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Preciso de orientação antes de falar com a polícia. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Estou respondendo a uma investigação e quero entender o procedimento. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Quero saber como funciona uma defesa criminal. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Preciso entender meus direitos depois de uma prisão. [Domínio: legal]", "label": "L"}
+{"text": "Mensagem do usuário: Tenho dúvidas sobre uma investigação criminal em andamento. [Domínio: legal]", "label": "L"}

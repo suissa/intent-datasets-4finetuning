@@ -1,0 +1,50 @@
+[
+  {
+    "label": "CONTRATO",
+    "description": "Contratos, cláusulas, revisão, elaboração, assinatura, rescisão e multas contratuais."
+  },
+  {
+    "label": "PROCESSO",
+    "description": "Andamento, consulta, decisões, recursos e situação de processo judicial."
+  },
+  {
+    "label": "PETICAO",
+    "description": "Elaboração, revisão ou protocolo de petições e manifestações processuais."
+  },
+  {
+    "label": "PRAZO",
+    "description": "Prazos processuais, vencimentos, contagem de dias e datas-limite."
+  },
+  {
+    "label": "AUDIENCIA",
+    "description": "Preparação, agendamento, participação ou dúvidas específicas sobre audiência."
+  },
+  {
+    "label": "CONSULTA_JURIDICA",
+    "description": "Orientação jurídica geral sobre direitos, opções e interpretação de uma situação."
+  },
+  {
+    "label": "TRABALHISTA",
+    "description": "Relação de emprego, demissão, salário, verbas trabalhistas e direitos do trabalhador."
+  },
+  {
+    "label": "FAMILIA",
+    "description": "Divórcio, guarda, pensão alimentícia, união estável e outros assuntos familiares."
+  },
+  {
+    "label": "CONSUMIDOR",
+    "description": "Problemas com produtos, serviços, cobranças, garantias e direitos do consumidor."
+  },
+  {
+    "label": "EMPRESARIAL",
+    "description": "Sociedades, operações empresariais, governança e questões jurídicas de empresas."
+  },
+  {
+    "label": "PREVIDENCIARIO",
+    "description": "INSS, aposentadoria, benefícios, contribuições e requerimentos previdenciários."
+  },
+  {
+    "label": "CRIMINAL",
+    "description": "Crimes, investigação policial, defesa criminal e procedimentos penais."
+  }
+]
