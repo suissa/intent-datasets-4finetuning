@@ -37,7 +37,7 @@ def write_jsonl(path, rows):
 def split_train(rows):
     rows = list(rows)
     random.Random(SEED).shuffle(rows)
-    cut = int(len(rows) * 0.8)
+    cut = round(len(rows) * 0.8)
     return rows[:cut], rows[cut:]
 
 def prompt(row):
