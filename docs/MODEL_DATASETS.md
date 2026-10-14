@@ -5,7 +5,7 @@ Run `python scripts/materialize_model_datasets.py` or trigger the **Materialize 
 ## Shared protocol
 - Canonical train: all records from `datasets/legal/train.jsonl`.
 - Frozen evaluation: all 132 records from `datasets/legal/eval.jsonl`; never split or augment it.
-- Deterministic 80/20 split of canonical train using seed 0. With 14,806 records this is **11,844 train / 2,962 calibration** (floor at 80%). The earlier notes saying 11,845/2,961 used a different rounding convention; the script uses an explicit floor.
+- Deterministic 80/20 split of canonical train using seed 0. With 14,806 records this is **11,845 train / 2,961 calibration** (floor at 80%). The earlier notes saying 11,845/2,961 used a different rounding convention; the script uses Python's deterministic round-to-nearest behavior.
 - All formats retain the same source examples and labels. Tev1 uses letter labels A-L in the canonical label order. Strands uses 12 described options and an integer option index.
 
 ## Outputs
