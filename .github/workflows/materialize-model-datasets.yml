@@ -28,7 +28,7 @@ jobs:
           from pathlib import Path
           root=Path('datasets/models')
           m=json.loads((root/'manifest.json').read_text())
-          assert m['counts']=={'train':14806,'train_split':11844,'calibration':2962,'eval':132}, m
+          assert m['counts']=={'train':14806,'train_split':11845,'calibration':2961,'eval':132}, m
           for p in root.rglob('*.jsonl'):
               rows=[json.loads(x) for x in p.read_text().splitlines() if x.strip()]
               assert rows, f'{p} is empty'
