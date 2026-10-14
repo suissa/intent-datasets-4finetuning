@@ -1,0 +1,48 @@
+name: Materialize model datasets
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'datasets/legal/train.jsonl'
+      - 'datasets/legal/eval.jsonl'
+      - 'scripts/materialize_model_datasets.py'
+      - '.github/workflows/materialize-model-datasets.yml'
+permissions:
+  contents: write
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate model-specific datasets
+        run: python scripts/materialize_model_datasets.py
+      - name: Validate generated datasets
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path('datasets/models')
+          m=json.loads((root/'manifest.json').read_text())
+          assert m['counts']=={'train':14806,'train_split':11844,'calibration':2962,'eval':132}, m
+          for p in root.rglob('*.jsonl'):
+              rows=[json.loads(x) for x in p.read_text().splitlines() if x.strip()]
+              assert rows, f'{p} is empty'
+          assert len((root/'canonical/eval.jsonl').read_text().splitlines()) == 132
+          print('Dataset materialization validation passed')
+          PY
+      - name: Commit generated datasets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add datasets/models
+          if git diff --cached --quiet; then
+            echo 'No dataset changes to commit.'
+          else
+            git commit -m 'data: materialize datasets for all decision models'
+            git push
+          fi
